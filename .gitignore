@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Plugins/Developer/RiderLink/Binaries/
+
+Plugins/Developer/RiderLink/Intermediate/
+
+Content/Texture/Animated_material/tentacles_normal.uasset
